@@ -1,0 +1,2 @@
+#creacion 
+git init # crear 
